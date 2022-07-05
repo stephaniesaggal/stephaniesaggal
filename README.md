@@ -18,7 +18,7 @@
   
   </br>
   </br>
-  <h2>Most used languages </h2>
+  <h2>Most Used Languages </h2>
 <div style="display: inline_block">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50em"/>
