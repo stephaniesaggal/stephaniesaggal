@@ -1,7 +1,7 @@
 ### Hi I'm Stephanie Saggal
 
-- 🔭 I’m currently working on FrontEnd Development
-- 🌱 I’m currently learning Fullstack Development
+- 🔭 I’m currently working on Fullstack Development
+- 🌱 I’m currently learning Vue.js
 - 📫 How to reach me: linkedin.com/in/stephanie-saggal/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love Star Wars!!!
